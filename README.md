@@ -4,7 +4,7 @@ This repository contains a collection of Power BI dashboards and reports I creat
 To protect confidentiality, reports are shared as **PDF snapshots** with **sample datasets** when possible.
 
 ## 📂 Projects
-1. [Sales Analysis Dashboard](./shopSales.pdf)  
+1. [Sales Analysis Dashboard](PowerBI-Projects/shopSales.pdf)  
 3. [Marketing Campaign Dashboard](./Project2-Marketing-Dashboard)  
 4. More projects coming soon...
 

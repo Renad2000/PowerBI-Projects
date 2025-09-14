@@ -5,7 +5,7 @@ To protect confidentiality, reports are shared as **PDF snapshots** with **sampl
 
 ## 📂 Projects
 1. [Sales Analysis Dashboard](./shopSales.pdf)  
-3. [Marketing Campaign Dashboard](./Project2-Marketing-Dashboard)  
+3. [Marketing Campaign Dashboard](./)  
 4. More projects coming soon...
 
 ## ⚙️ Tools & Skills
